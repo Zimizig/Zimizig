@@ -25,7 +25,7 @@ Swift & UX Designer
 </p>
 
 ### Socials
-<p align="left"> <a href="[https://vk.com/f1ll_zzz](https://vk.com/korniiienko)" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+<p align="left"> <a href="https://vk.com/korniiienko" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
 <p align="left"> <a href="https://discord.com/users/Рамазанов Роман#3095" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zimizig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/zimizig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
