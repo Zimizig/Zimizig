@@ -1,4 +1,4 @@
-§Ramazanow Roman 
+Ramazanow Roman 
 ================================
 
 Swift & UX Designer
