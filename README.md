@@ -7,11 +7,9 @@ Swift & UX Designer
 
 * 🌍  I'm based in Russia city Yekaterinburg
 * ✉️  You can contact me at [Ramazanow9999@gmail.com](mailto:Ramazanow9999@gmail.com)
-* 🧠  I'm learning UIKit
+* 🧠  I'm learning SwiftUI
 * 🤝  I'm open to collaborating on All
-
-### :man_technologist: Обо мне:
-
+  
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
 </div>
